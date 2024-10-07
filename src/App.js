@@ -7,7 +7,7 @@ import Contactform from './Contactform';
 function App() {
   return (
     <>
-    <RegistrationReact />
+    {/* <RegistrationReact /> */}
 
     <br />
     {/* <Contactform /> */}
