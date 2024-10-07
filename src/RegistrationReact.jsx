@@ -3,7 +3,7 @@ import React from 'react'
 const RegistrationReact = () => {
   return (
     <>
-  <h1>LoginIn SignUp Form</h1>
+  <h1>LogIn SignUp Form</h1>
 
     </>
   )
