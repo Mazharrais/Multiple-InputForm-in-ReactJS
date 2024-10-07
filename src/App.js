@@ -4,9 +4,11 @@ import RegistrationReact from './RegistrationReact';
 
 function App() {
   return (
-    <div className="App">
-      <RegistrationReact />
-    </div>
+    <>
+    <RegistrationReact />
+    
+    </>
+
   );
 }
 
